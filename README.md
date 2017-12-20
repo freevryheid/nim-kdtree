@@ -1,2 +1,4 @@
 # nim-kdtree
-nim wrapper of a library for working with kd-trees
+nim wrapper of this library for working with kd-trees:
+https://github.com/jtsiomb/kdtree
+
